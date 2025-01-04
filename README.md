@@ -1,2 +1,2 @@
 # PipelineOracle
-Predictive analysis tool for eccomerce based datasets using AI.
+Predictive analysis and trend identification tool for eccomerce based datasets using AI.
