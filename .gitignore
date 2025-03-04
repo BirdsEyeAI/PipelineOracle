@@ -90,6 +90,8 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Add section for PyTorch/AI tooling
+
 # IPython
 profile_default/
 ipython_config.py
